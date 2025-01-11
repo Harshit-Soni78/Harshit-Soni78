@@ -23,7 +23,7 @@
     <a href="https://linktr.ee/harshit_soni78" target="blank"><img align="center" src="assets\SVG\linktree.svg" alt="harshit-soni78" height="40" width="40" /></a>
 </p>
 
-<img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg"> Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
+<img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg">  Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
 
 ---
 
