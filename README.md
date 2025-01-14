@@ -14,23 +14,25 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/harshit-soni78/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="assets\SVG\linkedin.svg"
             alt="harshit-soni78" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/harshit_soni78" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit-soni78" height="30"
+            src="assets\SVG\codechef.svg" alt="harshit-soni78" height="30"
             width="40" /></a>
     <a href="https://leetcode.com/u/Harshit_Soni78/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            src="assets\SVG\leetcode.svg"
             alt="harshit-soni78" height="30" width="40" /></a>
+    <a href="https://linktr.ee/harshit_soni78" target="blank"><img align="center"
+            src="assets\SVG\linktree.svg"
+            alt="harshit-soni78" height="40" width="40" /></a>
 </p>
 
-- 👨‍💻 Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
-
+- <img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg"> Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=onedark&title=Commits,Repositories,Stars,PullRequest,Experience" alt="harshit-soni78" /></a> </p>
-
 </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
@@ -106,4 +108,4 @@
         alt="harshit-soni78" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=onedark"
-        alt="harshit-soni78" /></p>"# Harshit-Soni78" 
+        alt="harshit-soni78" /></p>
