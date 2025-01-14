@@ -6,12 +6,10 @@
 <h3 align="center">Pre-final Year student at MBM University, Jodhpur having proficiency in, Artificial Intelligence ||
     Machine learning || Data Science || Web Developer || DSA || Robotics || Leadership</h3>
 
-<img align="right" alt="coding" width="400" src="assets/Images/coffieanimation.gif">
+<div>
+<img align="right" alt="coding" width="300" src="assets/Images/coffieanimation.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=onedark&title=Commits,Repositories,Stars,PullRequest,Experience" alt="harshit-soni78"/></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit Soni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit Soni" width="100px"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +26,11 @@
 
 - 👨‍💻 Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=onedark&title=Commits,Repositories,Stars,PullRequest,Experience" alt="harshit-soni78" /></a> </p>
+
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
