@@ -18,7 +18,7 @@
             alt="harshit-soni78" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/harshit_soni78" target="blank"><img align="center"
             src="assets\SVG\codechef.svg" alt="harshit-soni78" height="30"
-            width="40" /></a>
+            width=auto /></a>
     <a href="https://leetcode.com/u/Harshit_Soni78/" target="blank"><img align="center"
             src="assets\SVG\leetcode.svg"
             alt="harshit-soni78" height="30" width="40" /></a>
