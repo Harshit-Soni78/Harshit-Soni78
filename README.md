@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Soni</h1>
 <h3 align="center">Pre-final Year student at MBM University, Jodhpur having proficiency in, Artificial Intelligence ||
-    Machine learning || Data Science || Web Developer || DSA || Robotics || Leadership</h3>
+    Machine learning || Data Science || Web Development || DSA || Robotics || Leadership</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit Soni" width="100px"/></p>
 
