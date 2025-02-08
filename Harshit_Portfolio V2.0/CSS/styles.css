@@ -1,0 +1,262 @@
+/* Resetting default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 100%; */
+}
+
+header .header-content {
+    display: flex;
+    align-items: center;
+}
+
+header .header-text {
+    flex: 1;
+}
+
+header .profile-img {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+    
+    overflow: hidden;
+    
+    margin-right: 20px;
+    transition: transform 0.3s ease;
+}
+
+/* 
+**********************************************
+
+.profile-image {
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 20px;
+    float: right;
+    border: 5px solid #fff;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+
+.profile-image:hover {
+    transform: scale(1.05);
+}
+
+********************************************** 
+*/
+
+header .profile-img img {
+    width: 100%;
+    height: 100%;
+    
+    object-fit: cover;
+    
+    
+    transition: transform 0.3s ease;
+}
+
+
+/* Hover effect - scaling up */
+header .profile-img:hover {
+    transform: scale(1.2);
+}
+
+header .header-text h1 {
+
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+header .header-text p {
+    font-size: 1.2rem;
+}
+
+
+header h1 {
+    font-size: 2rem;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #f7b733;
+}
+
+section {
+    padding: 40px 0;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+/* Social Icons */
+.social-icons {
+    list-style-type: none;
+}
+
+.social-icons li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.social-icons li a img {
+    width: 30px;
+    height: 30px;
+}
+
+/* Card Styles */
+.card {
+    background-color: #e5eaff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card h3 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.card a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.card a:hover {
+    color: #ff0000;
+}
+
+.card p {
+    color: #666;
+}
+
+.card ul {
+    list-style-type: none;
+}
+
+.card ul li {
+    margin-bottom: 5px;
+}
+
+/* Profile Container Styles */
+.profile-container {
+    position: relative;
+    display: inline-block;
+}
+
+/* Profile Image Styles */
+.profile-img {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    border-radius: 40%;
+    overflow: hidden;
+}
+
+.profile-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Circular spinning boundary */
+.profile-container::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: -20px;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    border: 2px solid rgba(255, 255, 255, 0);
+    border-radius: 35%;
+    border-top: .2rem solid  rgba(47, 97, 232, 0);
+    border-bottom: .2rem solid  rgba(47, 97, 232, 0);
+    border-left: .2rem solid rgba(226, 226, 226, 0.8);
+    border-right: .2rem solid rgba(226, 226, 226, 0.8);
+    animation: spin 8s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+
+}
+
+/* Footer link hover animation */
+.social-icons li a:hover img {
+    transform: scale(1.9);
+    transition: transform 0.3s ease;
+}
