@@ -51,4 +51,4 @@
 
 ## Snake Eating My Commit 🐍
 
-![Snake animation](https://github.com/Harshit-Soni78/Harshit-Soni78/blob/main/dist/github-snake.svg)
+![Snake animation](https://github.com/Harshit-Soni78/Harshit-Soni78/blob/main/assets/github-contribution-grid-snake.svg)
