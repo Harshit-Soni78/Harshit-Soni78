@@ -48,7 +48,3 @@
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=onedark" alt="harshit-soni78"/></p>                                               
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=onedark&title=Commits,Repositories,Stars,PullRequest,Experience" alt="harshit-soni78"/></a> </p>
-
-## Snake Eating My Commit 🐍
-
-![Snake animation](https://github.com/Harshit-Soni78/Harshit-Soni78/blob/main/assets/github-contribution-grid-snake.svg)
