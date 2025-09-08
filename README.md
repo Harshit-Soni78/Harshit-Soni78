@@ -25,7 +25,7 @@
 
 <img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg">  Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
 
-<img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg">  Checkout my Personal Portfolio [https://harshit-soni78.github.io/Harshit-Soni78/](https://harshit-soni78.github.io/Harshit-Soni78/)
+<img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg">  Checkout my Personal Portfolio [https://www.harshitsoni.space/](https://www.harshitsoni.space/)
 
 ---
 
