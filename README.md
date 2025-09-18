@@ -58,8 +58,9 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,bootstrap,tailwind,postman,django,flask,mysql,mongodb,postgres,git,github,docker,linux,figma,opencv,tensorflow,pytorch,sklearn&perline=5" width="30%"/>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,bootstrap,tailwind,postman,django,flask,mysql,mongodb,postgres,git,github,docker,linux,figma,opencv,tensorflow,pytorch,sklearn&perline=5" width="35%"/>
   <img src="assets/Images/coffieanimation.gif" alt="Coding Animation" width="55%"/>
 </div>
 
