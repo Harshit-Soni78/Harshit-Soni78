@@ -1,52 +1,104 @@
-<img src="assets/Images/LinkedIn Banner.jpg" alt="harshit-soni78"/>
+<!-- Banner -->
+<p align="center">
+  <img src="assets/Images/LinkedIn Banner.jpg" alt="Harshit Soni Banner" width="100%"/>
+</p>
+
+---
+
+<h1 align="center">
+  <!-- Gradient Shimmer Static Text -->
+  <span style="font-size: 28px; font-weight: 700;
+               background: linear-gradient(90deg, #FF4B91, #00C9FF, #6A5ACD);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               background-size: 300% 300%;
+               animation: shimmer 6s infinite linear;">
+    Hey there
+  </span> 👋
+  <span style="font-size: 28px; font-weight: 700;
+               background: linear-gradient(90deg, #FF4B91, #00C9FF, #6A5ACD);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               background-size: 300% 300%;
+               animation: shimmer 6s infinite linear;">
+    , I'm
+  </span>
+  <br/>
+
+  <!-- Typing Effect Dynamic Text -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Harshit+Soni;A+Web+Developer;An+AI%2FML+Enthusiast" alt="Typing SVG" />
+
+</h1>
+
+<!-- Shimmer Animation CSS -->
+<style>
+@keyframes shimmer {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+<h3 align="center">🚀 Final Year Student | 💡 AI & ML Enthusiast | 🌍 Tech Explorer</h3>
+
+---
+
+## 🌟 About Me
+
+- 🎓 Pursuing **B.Tech at MBM University, Jodhpur**
+- 🤖 Skilled in **AI | ML | Data Science | Web Dev | DSA**
+- 🌱 Currently exploring **AI for Social Good & Smart Cities**
+- ⚡ Fun fact: I turn ☕ into code & ideas into projects
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:harshitsoni11664@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshit-soni78/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/harshit_soni78"><img src="https://img.shields.io/badge/CodeChef-bc6430?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Harshit_Soni78/"><img src="https://img.shields.io/badge/LeetCode-f39d1a?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linktr.ee/harshit_soni78"><img src="https://img.shields.io/badge/Linktree-014421?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://www.harshitsoni.space/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://raw.githubusercontent.com/Harshit-Soni78/Harshit-Soni78/main/Harshit%20Soni%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,bootstrap,tailwind,postman,django,flask,mysql,mongodb,postgres,git,github,docker,linux,figma,opencv,tensorflow,pytorch,sklearn&perline=5" width="35%"/>
+  <img src="assets/Images/coffieanimation.gif" alt="Coding Animation" width="55%"/>
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight&hide_border=true"  width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight&hide_border=true"  width="42%"/>
+</div>
 
 <br/>
 
----
-
-<h1 align="center">Hi 👋, I'm Harshit Soni</h1>
-<h3 align="center">Pre-final Year student at MBM University, Jodhpur having proficiency in, Artificial Intelligence ||
-    Machine learning || Data Science || Web Development || DSA || Robotics || Leadership</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit Soni" width="100px"/></p>
-
-<img align="right" alt="coding" width="50%" src="assets/Images/coffieanimation.gif">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=tokyonight&hide_border=true" width="55%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=3" width="35%"/>
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="mailto:harshitsoni11664@gmail.com" target="blank"><img align="center" src="assets\SVG\gmail.svg" alt="harshitsoni11664@gmail.com" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/harshit-soni78/" target="blank"><img align="center" src="assets\SVG\linkedin.svg" alt="harshit-soni78" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/harshit_soni78" target="blank"><img align="center" src="assets\SVG\codechef.svg" alt="harshit-soni78" height="30" width=auto /></a>
-    <a href="https://leetcode.com/u/Harshit_Soni78/" target="blank"><img align="center" src="assets\SVG\leetcode.svg" alt="harshit-soni78" height="30" width="40" /></a>
-    <a href="https://linktr.ee/harshit_soni78" target="blank"><img align="center" src="assets\SVG\linktree.svg" alt="harshit-soni78" height="40" width="40" /></a>
-</p>
+## 📈 Contribution Graph
 
-<img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg">  Checkout my linktree to connect with me [https://linktr.ee/harshit_soni78](https://linktr.ee/harshit_soni78)
-
-<img align="left" alt="😊" width="22" src="assets\SVG\linktree.svg">  Checkout my Personal Portfolio [https://www.harshitsoni.space/](https://www.harshitsoni.space/)
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-|                                                                                                                                                                           |                                                                                                                                                                       |                                                                                                                                                                       |                                                                                                                                                                                       |                                                                                                                                                                  |                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="assets/SVG/arduino-1.svg" alt="arduino" width="40" height="40" /></a>                       | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="assets/SVG/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a> | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/c-original.svg" alt="c" width="40" height="40" /></a>                  | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="assets/SVG/cpp.svg" alt="cplusplus" width="40" height="40" /> </a>                               | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="assets/SVG/css.svg" alt="css3" width="40" height="40" /> </a>               | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/django.svg" alt="django" width="40" height="40" /> </a>                          |
-| <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="assets/SVG/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>        | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/figma.svg" alt="figma" width="40" height="40" /> </a>                         | <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/flask.svg" alt="flask" width="40" height="40" /> </a>             | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/git.svg" alt="git" width="40" height="40" /> </a>                                               | <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="assets/SVG/html-5.svg" alt="html5" width="40" height="40" /> </a>                 | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="assets/SVG/js.svg" alt="javascript" width="40" height="40" /> </a> |
-| <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/linux.svg" alt="linux" width="40" height="40" /> </a>                             | <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/Matlab_Logo.png" alt="matlab" width="40" height="40" /> </a>              | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> | <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="assets/SVG/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> </a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>  | <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="assets/SVG/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>                    |
-| <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>                         | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/pandas-original.svg" alt="pandas" width="40" height="40" /> </a>          | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="assets/SVG/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>                | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="assets/SVG/python-original.svg" alt="python" width="40" height="40" /> </a>                              | <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>             | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>                    |
-| <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a> | <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="assets/SVG/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>      | <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="assets/SVG/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>            | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>                         | <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="assets/SVG/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="assets/SVG/docker.svg" alt="doker" width="40" height="40" /> </a>                                  |
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-soni78&theme=tokyo-night&hide_border=true&custom_title=🔥%20My%20GitHub%20Activity%20Graph" width="100%"/>
 </p>
 
 ---
 
-|                                                                                                                                                                           |                                                                                                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-soni78&show_icons=true&locale=en&theme=onedark" alt="harshit-soni78" /></p> | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-soni78&show_icons=true&locale=en&layout=compact&theme=onedark" alt="harshit-soni78"/></p> |
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=onedark" alt="harshit-soni78"/></p>                                               
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=onedark&title=Commits,Repositories,Stars,PullRequest,Experience" alt="harshit-soni78"/></a> </p>
+<h3 align="center">✨ Let's Build Something Amazing Together ✨</h3>
