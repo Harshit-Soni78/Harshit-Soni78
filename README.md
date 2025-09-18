@@ -11,16 +11,14 @@
                background: linear-gradient(90deg, #FF4B91, #00C9FF, #6A5ACD);
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;
-               background-size: 300% 300%;
-               animation: shimmer 6s infinite linear;">
+               background-size: 300% 300%;">
     Hey there
   </span> 👋
   <span style="font-size: 28px; font-weight: 700;
                background: linear-gradient(90deg, #FF4B91, #00C9FF, #6A5ACD);
                -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;
-               background-size: 300% 300%;
-               animation: shimmer 6s infinite linear;">
+               background-size: 300% 300%;">
     , I'm
   </span>
   <br/>
