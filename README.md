@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=tokyonight&hide_border=true" width="55%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=tokyonight" width="55%"/>
     <img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=3" width="35%"/>
 </div>
 
