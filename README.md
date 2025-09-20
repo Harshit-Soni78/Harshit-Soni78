@@ -31,6 +31,8 @@
 
 <h3 align="center">🚀 Final Year Student | 💡 AI & ML Enthusiast | 🌍 Tech Explorer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit Soni" width="100px"/></p>
+
 ---
 
 ## 🌟 About Me
