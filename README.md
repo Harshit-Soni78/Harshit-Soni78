@@ -68,14 +68,14 @@
 ## 📊 GitHub Insights
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight"  width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight"  width="42%"/>
+  <img src="https://my-github-readme-streak-stats-gener.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight"  width="55%"/>
+  <img src="https://my-github-readme-streak-stats-gener.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight"  width="42%"/>
 </div>
 
 <br/>
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=tokyonight" width="55%"/>
+    <img src="https://my-github-readme-streak-stats-gener.vercel.app/?user=harshit-soni78&theme=tokyonight" width="55%"/>
     <img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=3" width="35%"/>
 </div>
 
