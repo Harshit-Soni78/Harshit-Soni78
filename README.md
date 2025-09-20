@@ -23,9 +23,9 @@
   </span>
   <br/>
 
-<div style="position: absolute; left: 1;">
-    <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p style="position: absolute;" align="left">
+<img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
   <!-- Typing Effect Dynamic Text -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Harshit+Soni;A+Web+Developer;An+AI%2FML+Enthusiast" alt="Typing SVG" />
 
