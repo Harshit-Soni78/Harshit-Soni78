@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center">
+<div align="center">
   <!-- Gradient Shimmer Static Text -->
   <span style="font-size: 28px; font-weight: 700;
                background: linear-gradient(90deg, #FF4B91, #00C9FF, #6A5ACD);
@@ -24,14 +24,21 @@
   <br/>
 
   <!-- Typing Effect Dynamic Text -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Harshit+Soni;A+Web+Developer;An+AI%2FML+Enthusiast" alt="Typing SVG" /> -->
+<div style="display: flex; align-items: center; justify-content: center; width: 100%; position: relative;">
+  <div style="position: absolute; left: 0;">
+    <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </div>
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Harshit+Soni;A+Web+Developer;An+AI%2FML+Enthusiast" alt="Typing SVG" />
+  </div>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Harshit+Soni;A+Web+Developer;An+AI%2FML+Enthusiast" alt="Typing SVG" />
+</div>
 
-</h1>
+---
 
 <h3 align="center">🚀 Final Year Student | 💡 AI & ML Enthusiast | 🌍 Tech Explorer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit-Soni78&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit Soni" width="100px"/></p>
 
 ---
 
@@ -70,15 +77,15 @@
 ## 📊 GitHub Insights
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-  <img src="https://my-github-readme-streak-stats-gener.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight"  width="55%"/>
-  <img src="https://my-github-readme-streak-stats-gener.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight"  width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight"  width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight"  width="42%"/>
 </div>
 
 <br/>
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
     <img src="https://my-github-readme-streak-stats-gener.vercel.app/?user=harshit-soni78&theme=tokyonight" width="55%"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=3" width="35%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=tokyonight&margin-w=10&row=2&column=3&margin-w=5&margin-h=5" width="35%"/>
 </div>
 
 ---
