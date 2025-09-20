@@ -60,10 +60,9 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,bootstrap,tailwind,postman,django,flask,mysql,mongodb,postgres,git,github,docker,linux,figma,opencv,tensorflow,pytorch,sklearn&perline=5" width="35%"/>
-  <img src="assets/Images/coffieanimation.gif" alt="Coding Animation" width="55%"/>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center; gap: 20px;">
+  <img padding: 20px; margin: 40px 0;  src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,express,bootstrap,tailwind,postman,django,flask,mysql,mongodb,postgres,git,github,docker,linux,figma,opencv,tensorflow,pytorch,sklearn&perline=5" width="35%"/>
+  <img padding: 20px; margin: 40px 0;  src="assets/Images/coffieanimation.gif" alt="Coding Animation" width="55%"/>
 </div>
 
 ---
@@ -71,14 +70,14 @@
 ## 📊 GitHub Insights
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight&hide_border=true"  width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight&hide_border=true"  width="42%"/>
+  <img src="https://my-github-readme-streak-stats-gener.vercel.app/api?username=harshit-soni78&show_icons=true&theme=tokyonight"  width="55%"/>
+  <img src="https://my-github-readme-streak-stats-gener.vercel.app/api/top-langs/?username=harshit-soni78&layout=compact&theme=tokyonight"  width="42%"/>
 </div>
 
 <br/>
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-soni78&theme=tokyonight&hide_border=true" width="55%"/>
+    <img src="https://my-github-readme-streak-stats-gener.vercel.app/?user=harshit-soni78&theme=tokyonight" width="55%"/>
     <img src="https://github-profile-trophy.vercel.app/?username=harshit-soni78&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=3" width="35%"/>
 </div>
 
@@ -87,7 +86,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-soni78&theme=tokyo-night&hide_border=true&custom_title=🔥%20My%20GitHub%20Activity%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-soni78&theme=tokyo-night&custom_title=🔥%20My%20GitHub%20Activity%20Graph" width="100%"/>
 </p>
 
 ---
